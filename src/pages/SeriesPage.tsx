@@ -35,12 +35,15 @@ export function SeriesPage() {
   return (
     <Box>
       <Box
-        backgroundImage={`url(${series.coverImage})`}
+        backgroundImage={`linear-gradient(rgba(0,0,0,0.22), rgba(0,0,0,0.22)), url(${series.coverImage})`}
         backgroundSize="cover"
         backgroundPosition="center"
         backgroundRepeat="no-repeat"
+        minH={isMobile ? '220px' : '280px'}
         py={isMobile ? 6 : 10}
-        sx={{ textShadow: '0 0 10px rgba(255,255,255,0.85)' }}
+        display="flex"
+        alignItems="center"
+        sx={{ textShadow: '0 1px 2px rgba(0,0,0,0.9), 0 0 18px rgba(0,0,0,0.65)' }}
       >
         <Box
           marginLeft={isMobile ? 'var(--content-margin-left-mobile)' : 'var(--content-margin-left)'}
@@ -57,17 +60,23 @@ export function SeriesPage() {
             marginBottom={isMobile ? 2 : 3}
             gap={isMobile ? 1 : 6}
           >
-            <Text fontSize={isMobile ? '34px' : '42px'} color="black" lineHeight="1.05" m={0}>
+            <Text fontSize={isMobile ? '34px' : '42px'} color="white" lineHeight="1.05" m={0}>
               {series.title}
             </Text>
             {!isMobile ? (
-              <Text fontSize="42px" lineHeight="1.05" m={0}>
+              <Text fontSize="42px" lineHeight="1.05" m={0} color="white">
                 {series.shortName}
               </Text>
             ) : null}
           </Flex>
 
-          <Text fontSize={isMobile ? '14px' : '16px'} maxWidth="900px" lineHeight="1.4" m={0}>
+          <Text
+            fontSize={isMobile ? '14px' : '16px'}
+            maxWidth="900px"
+            lineHeight="1.4"
+            m={0}
+            color="whiteAlpha.900"
+          >
             {series.description}
           </Text>
         </Box>

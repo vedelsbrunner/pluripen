@@ -192,7 +192,9 @@ async function main() {
         files.find((f) => f.toLowerCase().endsWith('_kern.pdf')) ??
         files.find((f) => f.toLowerCase().endsWith('_ktext.pdf'))
 
-      const urlBase = `/assets/${seriesDir}/${volumeDir}`
+      // Use relative paths so GitHub Pages (repo subpath) works.
+      // HashRouter keeps the path stable, so `assets/...` resolves correctly.
+      const urlBase = `assets/${seriesDir}/${volumeDir}`
       const volumePadded = padVolume(volume)
       const id = `${series}_${volumePadded}`
       const meta = resolveTitleFromXlsx(titles, series, volumePadded)

@@ -20,7 +20,7 @@ export function AboutPage() {
         paddingBottom="var(--page-padding-bottom)"
         maxWidth="900px"
       >
-        <DocxViewer docxUrl="/assets/PLURIPEN_about.docx" downloadLabel="About (DOCX) herunterladen" />
+        <DocxViewer docxUrl="assets/PLURIPEN_about.docx" downloadLabel="About (DOCX) herunterladen" />
       </Box>
     </Box>
   )

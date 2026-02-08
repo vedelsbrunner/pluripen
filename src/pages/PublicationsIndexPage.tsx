@@ -50,7 +50,7 @@ export function PublicationsIndexPage() {
               _hover={{ textDecoration: 'none' }}
             >
               <Box
-                backgroundImage={`url(${series.coverImage})`}
+                backgroundImage={`linear-gradient(rgba(0,0,0,0.22), rgba(0,0,0,0.22)), url(${series.coverImage})`}
                 backgroundSize="cover"
                 backgroundPosition="center"
                 backgroundRepeat="no-repeat"
@@ -59,19 +59,32 @@ export function PublicationsIndexPage() {
                 px={isMobile ? 'var(--page-padding-mobile)' : 'var(--page-padding-left)'}
                 borderBottom={isLast ? '0' : '1px solid black'}
                 transition="filter 180ms ease, transform 180ms ease"
-                _hover={{ filter: 'brightness(0.95)', transform: 'translateY(-1px)' }}
-                sx={{ textShadow: '0 0 10px rgba(255,255,255,0.85)' }}
+                _hover={{
+                  filter: 'brightness(1.03)',
+                  transform: 'translateY(-1px)',
+                  boxShadow: 'inset 0 0 0 2px rgba(0,0,0,0.75)',
+                }}
+                sx={{
+                  textShadow: '0 1px 2px rgba(0,0,0,0.9), 0 0 18px rgba(0,0,0,0.65)',
+                }}
               >
-                <Text fontSize={isMobile ? '22px' : '32px'} m={0} lineHeight="1.15">
-                  {series.title} ({series.shortName})
-                </Text>
-                <Text fontSize={isMobile ? '15px' : '16px'} color="blackAlpha.700" m={0} mt={2}>
-                  {countVolumes} {countVolumes === 1 ? 'Band' : 'Bände'} · {countDownloads}{' '}
-                  {countDownloads === 1 ? 'Download' : 'Downloads'}
-                </Text>
-                <Text fontSize={isMobile ? '14px' : '16px'} m={0} mt={3} maxWidth="900px">
-                  {series.description}
-                </Text>
+                <Flex direction="column" justify="center" minH={isMobile ? '180px' : '260px'}>
+                  <Text fontSize={isMobile ? '22px' : '32px'} m={0} lineHeight="1.15" color="white">
+                    {series.title} ({series.shortName})
+                  </Text>
+                  <Text
+                    fontSize={isMobile ? '15px' : '16px'}
+                    color="whiteAlpha.900"
+                    m={0}
+                    mt={2}
+                  >
+                    {countVolumes} {countVolumes === 1 ? 'Band' : 'Bände'} · {countDownloads}{' '}
+                    {countDownloads === 1 ? 'Download' : 'Downloads'}
+                  </Text>
+                  <Text fontSize={isMobile ? '14px' : '16px'} m={0} mt={3} maxWidth="900px" color="white">
+                    {series.description}
+                  </Text>
+                </Flex>
               </Box>
             </Link>
           )

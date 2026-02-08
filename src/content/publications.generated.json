@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-08T14:32:43.838Z",
+  "generatedAt": "2026-02-08T14:45:20.135Z",
   "volumes": [
     {
       "id": "GLM_43",
@@ -8,9 +8,9 @@
       "title": "Orientalistische Varia",
       "authors": "Prokosch, Erich",
       "year": 2022,
-      "coverPdf": "/assets/GLM/GLM_43/GLM_43_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_43/GLM_43_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_43/GLM_43_text.pdf"
+      "coverPdf": "assets/GLM/GLM_43/GLM_43_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_43/GLM_43_abstract.docx",
+      "textPdf": "assets/GLM/GLM_43/GLM_43_text.pdf"
     },
     {
       "id": "GLM_42",
@@ -19,9 +19,9 @@
       "title": "Untersuchungen zur Lexik des Romani: Ergänzungen 2",
       "authors": "Boretzky, Norbert",
       "year": 2021,
-      "coverPdf": "/assets/GLM/GLM_42/GLM_42_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_42/GLM_42_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_42/GLM_42_text.pdf"
+      "coverPdf": "assets/GLM/GLM_42/GLM_42_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_42/GLM_42_abstract.docx",
+      "textPdf": "assets/GLM/GLM_42/GLM_42_text.pdf"
     },
     {
       "id": "GLM_41",
@@ -30,9 +30,9 @@
       "title": "Wörterbuch Zeitungsarabisch: unter Ausschluss des allgemeinen Grundwortschatzes",
       "authors": "Prokosch, Erich",
       "year": 2020,
-      "coverPdf": "/assets/GLM/GLM_41/GLM_41_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_41/GLM_41_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_41/GLM_41_text.pdf"
+      "coverPdf": "assets/GLM/GLM_41/GLM_41_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_41/GLM_41_abstract.docx",
+      "textPdf": "assets/GLM/GLM_41/GLM_41_text.pdf"
     },
     {
       "id": "GLM_40",
@@ -41,9 +41,9 @@
       "title": "Osmanisches Wortgut im Ägyptisch-Arabischen",
       "authors": "Prokosch, Erich",
       "year": 2020,
-      "coverPdf": "/assets/GLM/GLM_40/GLM_40_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_40/GLM_40_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_40/GLM_40_text.pdf"
+      "coverPdf": "assets/GLM/GLM_40/GLM_40_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_40/GLM_40_abstract.docx",
+      "textPdf": "assets/GLM/GLM_40/GLM_40_text.pdf"
     },
     {
       "id": "GLM_39",
@@ -52,9 +52,9 @@
       "title": "Standard und Substandard des Osmanisch-Türkischen im 17. Jahrhundert: Teil 3: Der Substandard des ’Evliyâ Çelebi",
       "authors": "Prokosch, Erich",
       "year": 2018,
-      "coverPdf": "/assets/GLM/GLM_39/GLM_39_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_39/GLM_39_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_39/GLM_39_text.pdf"
+      "coverPdf": "assets/GLM/GLM_39/GLM_39_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_39/GLM_39_abstract.docx",
+      "textPdf": "assets/GLM/GLM_39/GLM_39_text.pdf"
     },
     {
       "id": "GLM_38",
@@ -63,9 +63,9 @@
       "title": "Standard und Substandard des Osmanisch-Türkischen im 17. Jahrhundert: Teil 2: Der Substandard",
       "authors": "Prokosch, Erich",
       "year": 2017,
-      "coverPdf": "/assets/GLM/GLM_38/GLM_38_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_38/GLM_38_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_38/GLM_38_text.pdf"
+      "coverPdf": "assets/GLM/GLM_38/GLM_38_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_38/GLM_38_abstract.docx",
+      "textPdf": "assets/GLM/GLM_38/GLM_38_text.pdf"
     },
     {
       "id": "GLM_37",
@@ -74,18 +74,18 @@
       "title": "Die Kanzleisprache der Chane der Krim im 17. Jahrhundert: zusammengestellt aufgrund der Urkundensammlung von V. Véliaminof-Zernof: Matériaux pour servir a l’histoire de Khanat de Crimée\", Saint-Pétersbourg, 1864",
       "authors": "Prokosch, Erich",
       "year": 2016,
-      "coverPdf": "/assets/GLM/GLM_37/GLM_37_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_37/GLM_37_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_37/GLM_37_text.pdf"
+      "coverPdf": "assets/GLM/GLM_37/GLM_37_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_37/GLM_37_abstract.docx",
+      "textPdf": "assets/GLM/GLM_37/GLM_37_text.pdf"
     },
     {
       "id": "GLM_36",
       "series": "GLM",
       "volume": "36",
       "title": "GLM 36",
-      "coverPdf": "/assets/GLM/GLM_36/GLM_36_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_36/GLM_36_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_36/GLM_36_text.pdf"
+      "coverPdf": "assets/GLM/GLM_36/GLM_36_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_36/GLM_36_abstract.docx",
+      "textPdf": "assets/GLM/GLM_36/GLM_36_text.pdf"
     },
     {
       "id": "GLM_35",
@@ -94,9 +94,9 @@
       "title": "Zeitungsarabisch",
       "authors": "Prokosch, Erich",
       "year": 2015,
-      "coverPdf": "/assets/GLM/GLM_35/GLM_35_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_35/GLM_35_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_35/GLM_35_text.pdf"
+      "coverPdf": "assets/GLM/GLM_35/GLM_35_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_35/GLM_35_abstract.docx",
+      "textPdf": "assets/GLM/GLM_35/GLM_35_text.pdf"
     },
     {
       "id": "GLM_34",
@@ -105,9 +105,9 @@
       "title": "Untersuchungen zur Lexik des Romani: Ergänzungen 1",
       "authors": "Boretzky, Norbert",
       "year": 2015,
-      "coverPdf": "/assets/GLM/GLM_34/GLM_34_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_34/GLM_34_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_34/GLM_34_text.pdf"
+      "coverPdf": "assets/GLM/GLM_34/GLM_34_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_34/GLM_34_abstract.docx",
+      "textPdf": "assets/GLM/GLM_34/GLM_34_text.pdf"
     },
     {
       "id": "GLM_33",
@@ -116,9 +116,9 @@
       "title": "Zum Sprachpurismus im Neupersischen",
       "authors": "Fripertinger, Martin",
       "year": 2013,
-      "coverPdf": "/assets/GLM/GLM_33/GLM_33_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_33/GLM_33_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_33/GLM_33_text.pdf"
+      "coverPdf": "assets/GLM/GLM_33/GLM_33_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_33/GLM_33_abstract.docx",
+      "textPdf": "assets/GLM/GLM_33/GLM_33_text.pdf"
     },
     {
       "id": "GLM_32",
@@ -127,9 +127,9 @@
       "title": "Zusätze zum Supplement zu den osmanischen Grammatiken (GLM 18)",
       "authors": "Prokosch, Erich",
       "year": 2012,
-      "coverPdf": "/assets/GLM/GLM_32/GLM_32_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_32/GLM_32_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_32/GLM_32_text.pdf"
+      "coverPdf": "assets/GLM/GLM_32/GLM_32_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_32/GLM_32_abstract.docx",
+      "textPdf": "assets/GLM/GLM_32/GLM_32_text.pdf"
     },
     {
       "id": "GLM_31",
@@ -138,9 +138,9 @@
       "title": "Die lexikalischen Gräzismen des Romani: ein Beitrag zur Wortgeschichte. Mozes Heinschink zum 70. Geburtstag",
       "authors": "Boretzky, Norbert",
       "year": 2012,
-      "coverPdf": "/assets/GLM/GLM_31/GLM_31_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_31/GLM_31_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_31/GLM_31_text.pdf"
+      "coverPdf": "assets/GLM/GLM_31/GLM_31_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_31/GLM_31_abstract.docx",
+      "textPdf": "assets/GLM/GLM_31/GLM_31_text.pdf"
     },
     {
       "id": "GLM_30",
@@ -149,9 +149,9 @@
       "title": "Sprachwissenschaftliche Kriminalistik und Sprachprofiling : Anfänge, Kontroversen, Meilensteine, Fallbeispiele",
       "authors": "Drommel, Raimund H.",
       "year": 2011,
-      "coverPdf": "/assets/GLM/GLM_30/GLM_30_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_30/GLM_30_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_30/GLM_30_text.pdf"
+      "coverPdf": "assets/GLM/GLM_30/GLM_30_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_30/GLM_30_abstract.docx",
+      "textPdf": "assets/GLM/GLM_30/GLM_30_text.pdf"
     },
     {
       "id": "GLM_29",
@@ -160,9 +160,9 @@
       "title": "5 summaries: in memoriam des Doppelselbstmords Heinrich (v. Kleist) & Henriett vor 200 Jahren.",
       "authors": "Sornig, Karl",
       "year": 2011,
-      "coverPdf": "/assets/GLM/GLM_29/GLM_29_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_29/GLM_29_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_29/GLM_29_text.pdf"
+      "coverPdf": "assets/GLM/GLM_29/GLM_29_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_29/GLM_29_abstract.docx",
+      "textPdf": "assets/GLM/GLM_29/GLM_29_text.pdf"
     },
     {
       "id": "GLM_28",
@@ -171,9 +171,9 @@
       "title": "Tschaghataisch–deutsches Glossar",
       "authors": "Prokosch, Erich",
       "year": 2009,
-      "coverPdf": "/assets/GLM/GLM_28/GLM_28_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_28/GLM_28_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_28/GLM_28_text.pdf"
+      "coverPdf": "assets/GLM/GLM_28/GLM_28_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_28/GLM_28_abstract.docx",
+      "textPdf": "assets/GLM/GLM_28/GLM_28_text.pdf"
     },
     {
       "id": "GLM_27",
@@ -182,9 +182,9 @@
       "title": "Tschaghataische Grammatik: unter Berücksichtigung des Substandards",
       "authors": "Prokosch, Erich",
       "year": 2009,
-      "coverPdf": "/assets/GLM/GLM_27/GLM_27_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_27/GLM_27_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_27/GLM_27_text.pdf"
+      "coverPdf": "assets/GLM/GLM_27/GLM_27_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_27/GLM_27_abstract.docx",
+      "textPdf": "assets/GLM/GLM_27/GLM_27_text.pdf"
     },
     {
       "id": "GLM_26",
@@ -193,9 +193,9 @@
       "title": "Die südbalkanischen Dialekte (SB I) des Romani und ihre innere Gliederung: Analyse und Karten",
       "authors": "Boretzky, Norbert / Petra Cech",
       "year": 2008,
-      "coverPdf": "/assets/GLM/GLM_26/GLM_26_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_26/GLM_26_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_26/GLM_26_text.pdf"
+      "coverPdf": "assets/GLM/GLM_26/GLM_26_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_26/GLM_26_abstract.docx",
+      "textPdf": "assets/GLM/GLM_26/GLM_26_text.pdf"
     },
     {
       "id": "GLM_25",
@@ -204,9 +204,9 @@
       "title": "Morphologie und Syntax des Dobrudschatatarischen in der ersten Hälfte des 20. Jahrhunderts",
       "authors": "Prokosch, Erich",
       "year": 2008,
-      "coverPdf": "/assets/GLM/GLM_25/GLM_25_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_25/GLM_25_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_25/GLM_25_text.pdf"
+      "coverPdf": "assets/GLM/GLM_25/GLM_25_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_25/GLM_25_abstract.docx",
+      "textPdf": "assets/GLM/GLM_25/GLM_25_text.pdf"
     },
     {
       "id": "GLM_24",
@@ -215,9 +215,9 @@
       "title": "Die häufigsten Abkürzungen und Kurzbezeichnungen in türkischen Zeitungen",
       "authors": "Prokosch, Erich",
       "year": 2007,
-      "coverPdf": "/assets/GLM/GLM_24/GLM_24_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_24/GLM_24_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_24/GLM_24_text.pdf"
+      "coverPdf": "assets/GLM/GLM_24/GLM_24_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_24/GLM_24_abstract.docx",
+      "textPdf": "assets/GLM/GLM_24/GLM_24_text.pdf"
     },
     {
       "id": "GLM_23",
@@ -226,9 +226,9 @@
       "title": "Suche nach dem/n eigentlichen Namen: bei Durchsicht unserer Bücher Nr. 5",
       "authors": "Sornig, Karl",
       "year": 2007,
-      "coverPdf": "/assets/GLM/GLM_23/GLM_23_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_23/GLM_23_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_23/GLM_23_text.pdf"
+      "coverPdf": "assets/GLM/GLM_23/GLM_23_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_23/GLM_23_abstract.docx",
+      "textPdf": "assets/GLM/GLM_23/GLM_23_text.pdf"
     },
     {
       "id": "GLM_22",
@@ -237,9 +237,9 @@
       "title": "Zahrer Wörterbuch = Vocabolario Saurano",
       "authors": "Denison, Norman / Hans Grassegger",
       "year": 2007,
-      "coverPdf": "/assets/GLM/GLM_22/GLM_22_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_22/GLM_22_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_22/GLM_22_text.pdf"
+      "coverPdf": "assets/GLM/GLM_22/GLM_22_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_22/GLM_22_abstract.docx",
+      "textPdf": "assets/GLM/GLM_22/GLM_22_text.pdf"
     },
     {
       "id": "GLM_21",
@@ -248,9 +248,9 @@
       "title": "Krimtatarisch-deutsches Glossar: unter Einschluss aller Epochen, mit Ausschluss aller Wörter, die einem osmanisch-türkischen oder russischen Wörterbuch entnommen werden können",
       "authors": "Prokosch, Erich",
       "year": 2007,
-      "coverPdf": "/assets/GLM/GLM_21/GLM_21_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_21/GLM_21_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_21/GLM_21_text.pdf"
+      "coverPdf": "assets/GLM/GLM_21/GLM_21_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_21/GLM_21_abstract.docx",
+      "textPdf": "assets/GLM/GLM_21/GLM_21_text.pdf"
     },
     {
       "id": "GLM_20",
@@ -259,9 +259,9 @@
       "title": "Handbuch des Krimtatarischen unter Einschluss des Dobrudschatatarischen: diachronische Grammatik mit kultur- und realkundlichem Hintergrund",
       "authors": "Prokosch, Erich",
       "year": 2006,
-      "coverPdf": "/assets/GLM/GLM_20/GLM_20_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_20/DGLM_20_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_20/GLM_20_text.pdf"
+      "coverPdf": "assets/GLM/GLM_20/GLM_20_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_20/DGLM_20_abstract.docx",
+      "textPdf": "assets/GLM/GLM_20/GLM_20_text.pdf"
     },
     {
       "id": "GLM_19",
@@ -270,9 +270,9 @@
       "title": "Reden und Schweigen zwischen Spiel und Magie: das ist, vorläufige und vorsichtige Prolegomena zu einer Linguistik des Schweigens: Vorabdruck in V Faszikeln: 3 = M, Ähnlichkeiten und die metaphorischen Rettungen 2",
       "authors": "Sornig, Karl",
       "year": 2006,
-      "coverPdf": "/assets/GLM/GLM_19/GLM_19_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_19/GLM_19_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_19/GLM_19_text.pdf"
+      "coverPdf": "assets/GLM/GLM_19/GLM_19_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_19/GLM_19_abstract.docx",
+      "textPdf": "assets/GLM/GLM_19/GLM_19_text.pdf"
     },
     {
       "id": "GLM_18",
@@ -281,9 +281,9 @@
       "title": "Supplement zu den osmanisch-türkischen Grammatiken: unter besonderer Berücksichtigung der Sprache um 1900 und weitgehendem Ausschluss des Substandards ; mit einem Anhang über die Wörterbücher",
       "authors": "Prokosch, Erich",
       "year": 2005,
-      "coverPdf": "/assets/GLM/GLM_18/GLM_18_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_18/GLM_18_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_18/GLM_18_text.pdf"
+      "coverPdf": "assets/GLM/GLM_18/GLM_18_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_18/GLM_18_abstract.docx",
+      "textPdf": "assets/GLM/GLM_18/GLM_18_text.pdf"
     },
     {
       "id": "GLM_17",
@@ -292,8 +292,8 @@
       "title": "Reden und Schweigen zwischen Spiel und Magie: das ist, vorläufige und vorsichtige Prolegomena zu einer Linguistik des Schweigens: Vorabdruck in V Faszikeln: 3 = M, Ähnlichkeiten und die metaphorischen Rettungen 1",
       "authors": "Sornig, Karl",
       "year": 2005,
-      "coverPdf": "/assets/GLM/GLM_17/GLM_17_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_17/GLM_17_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_17/GLM_17_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_17/GLM_17_abstract.docx"
     },
     {
       "id": "GLM_16",
@@ -302,17 +302,17 @@
       "title": "Evliyā-Çelebi-Glossar: zur Handschrift Yıldız 75r–166r und 360v–450v",
       "authors": "Prokosch, Erich",
       "year": 2004,
-      "coverPdf": "/assets/GLM/GLM_16/GLM_16_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_16/GLM_16_abstract.docx",
-      "textPdf": "/assets/GLM/GLM_16/GLM_16_text.pdf"
+      "coverPdf": "assets/GLM/GLM_16/GLM_16_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_16/GLM_16_abstract.docx",
+      "textPdf": "assets/GLM/GLM_16/GLM_16_text.pdf"
     },
     {
       "id": "GLM_14-15",
       "series": "GLM",
       "volume": "14-15",
       "title": "GLM 14-15",
-      "coverPdf": "/assets/GLM/GLM_14-15/GLM_14-15_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_14-15/GLM_14-15_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_14-15/GLM_14-15_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_14-15/GLM_14-15_abstract.docx"
     },
     {
       "id": "GLM_13",
@@ -321,8 +321,8 @@
       "title": "Die armenische Sprache in der europäischen Diaspora",
       "authors": "Dum-Tragut, Jasmin",
       "year": 1997,
-      "coverPdf": "/assets/GLM/GLM_13/GLM_13_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_13/GLM_13_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_13/GLM_13_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_13/GLM_13_abstract.docx"
     },
     {
       "id": "GLM_12",
@@ -331,8 +331,8 @@
       "title": "Spiel – Sprache – Purismen, infantile Poetiken, Innovationen und prometheische Unbotmäßigkeiten",
       "authors": "Sornig, Karl",
       "year": 1995,
-      "coverPdf": "/assets/GLM/GLM_12/GLM_12_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_12/GLM_12_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_12/GLM_12_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_12/GLM_12_abstract.docx"
     },
     {
       "id": "GLM_11",
@@ -341,8 +341,8 @@
       "title": "Sprache, Onomatopöie, Rhetorik, Namen, Idiomatik, Grammatik: Festschrift für Karl Sornig zum 66. Geburtstag",
       "authors": "Halwachs, Dieter W. / Christine Penzinger / Irmgard Stütz. eds.",
       "year": 1994,
-      "coverPdf": "/assets/GLM/GLM_11/GLM_11_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_11/GLM_11_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_11/GLM_11_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_11/GLM_11_abstract.docx"
     },
     {
       "id": "GLM_10",
@@ -351,8 +351,8 @@
       "title": "Linguistics with a human face: Festschrift für Norman Denison zum 70. Geburtstag",
       "authors": "Sornig, Karl / Dieter W. Halwachs / Christine Penzinger. eds.",
       "year": 1995,
-      "coverPdf": "/assets/GLM/GLM_10/GLM_10_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_10/GLM_10_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_10/GLM_10_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_10/GLM_10_abstract.docx"
     },
     {
       "id": "GLM_09",
@@ -361,8 +361,8 @@
       "title": "Reden und Schweigen zwischen Spiel und Magie: das ist, vorläufige und vorsichtige Prolegomena zu einer Linguistik des Schweigens: Vorabdruck in V Faszikeln: 5/1: Sprache: Spiel: Das agonale Prinzip in der Kommunikation, Irrtümer, Irreführungen, Spiel der Gestalten",
       "authors": "Sornig, Karl",
       "year": 1993,
-      "coverPdf": "/assets/GLM/GLM_09/GLM_09_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_09/GLM_09_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_09/GLM_09_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_09/GLM_09_abstract.docx"
     },
     {
       "id": "GLM_08",
@@ -371,8 +371,8 @@
       "title": "Aspects, Phases and Tenses in English and Serbo-Croatian",
       "authors": "Hlebec, Boris",
       "year": 1990,
-      "coverPdf": "/assets/GLM/GLM_08/GLM_08_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_08/GLM_08_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_08/GLM_08_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_08/GLM_08_abstract.docx"
     },
     {
       "id": "GLM_07",
@@ -381,8 +381,8 @@
       "title": "Mißverstehen verstehen: opake Kontexte und Ambiguitäten bei indefiniten und definiten Nominalphrasen",
       "authors": "Lavric, Eva",
       "year": 1990,
-      "coverPdf": "/assets/GLM/GLM_07/GLM_07_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_07/GLM_07_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_07/GLM_07_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_07/GLM_07_abstract.docx"
     },
     {
       "id": "GLM_06",
@@ -391,8 +391,8 @@
       "title": "The World of Work: As Reflected in Idioms Based on English, French, German, Russian and Lithuanian Phraseologies",
       "authors": "Strazhas-Kameneckaite, Nedda",
       "year": 1990,
-      "coverPdf": "/assets/GLM/GLM_06/GLM_06_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_06/GLM_06_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_06/GLM_06_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_06/GLM_06_abstract.docx"
     },
     {
       "id": "GLM_05",
@@ -401,8 +401,8 @@
       "title": "Reden und Schweigen zwischen Spiel und Magie : das ist, vorläufige und vorsichtige Prolegomena zu einer Linguistik des Schweigens: Vorabdruck in V Faszikeln: 4 : Spuren und Motive sprachmagischer Strategien",
       "authors": "Sornig, Karl",
       "year": 1990,
-      "coverPdf": "/assets/GLM/GLM_05/GLM_05_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_05/GLM_05_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_05/GLM_05_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_05/GLM_05_abstract.docx"
     },
     {
       "id": "GLM_04",
@@ -411,8 +411,8 @@
       "title": "Indogermanica Europaea: Festschrift für Wolfgang Meid zum 60. Geburtstag",
       "authors": "Heller, Karin / Oswald Panagl / Johann Tischler. eds.",
       "year": 1989,
-      "coverPdf": "/assets/GLM/GLM_04/GLM_04_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_04/GLM_04_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_04/GLM_04_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_04/GLM_04_abstract.docx"
     },
     {
       "id": "GLM_03",
@@ -421,8 +421,8 @@
       "title": "Holophrastisch-expressive Äusserungsmuster: anhand der Onomasiologie und Semasiologie der interjektionellen und expressiven Ausdrucks- und Darstellungsmittel der trivial-narrativen Gattung “fumetti”",
       "authors": "Sornig, Karl",
       "year": 1986,
-      "coverPdf": "/assets/GLM/GLM_03/GLM_03_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_03/GLM_03_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_03/GLM_03_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_03/GLM_03_abstract.docx"
     },
     {
       "id": "GLM_02",
@@ -431,8 +431,8 @@
       "title": "Arabische Kontaktsprachen (Pidgin- und Kreolsprachen) in Afrika",
       "authors": "Prokosch, Erich",
       "year": 1986,
-      "coverPdf": "/assets/GLM/GLM_02/GLM_02_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_02/GLM_02_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_02/GLM_02_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_02/GLM_02_abstract.docx"
     },
     {
       "id": "GLM_01",
@@ -441,8 +441,8 @@
       "title": "Bergnamen in der Steiermark",
       "authors": "Lochner von Hüttenbach, Fritz",
       "year": 1985,
-      "coverPdf": "/assets/GLM/GLM_01/GLM_01_titel.pdf",
-      "abstractDocx": "/assets/GLM/GLM_01/GLM_01_abstract.docx"
+      "coverPdf": "assets/GLM/GLM_01/GLM_01_titel.pdf",
+      "abstractDocx": "assets/GLM/GLM_01/GLM_01_abstract.docx"
     },
     {
       "id": "GPS_06",
@@ -451,9 +451,9 @@
       "title": "Repertoiredynamiken in der Migration am Beispiel dreier Sprecher_innengemeinschaften",
       "authors": "Korb, Christina / Angelika Heiling / Dieter W. Halwachs. eds.",
       "year": 2018,
-      "coverPdf": "/assets/GPS/GPS_06/GPS_06_titel.pdf",
-      "abstractDocx": "/assets/GPS/GPS_06/GPS_06_abstract.docx",
-      "textPdf": "/assets/GPS/GPS_06/GPS_06_kern.pdf"
+      "coverPdf": "assets/GPS/GPS_06/GPS_06_titel.pdf",
+      "abstractDocx": "assets/GPS/GPS_06/GPS_06_abstract.docx",
+      "textPdf": "assets/GPS/GPS_06/GPS_06_kern.pdf"
     },
     {
       "id": "GPS_05",
@@ -462,9 +462,9 @@
       "title": "Zazaki – dünu, bugünü ve yarini",
       "authors": "Arslan, Zeynep",
       "year": 2017,
-      "coverPdf": "/assets/GPS/GPS_05/GPS_05_titel.pdf",
-      "abstractDocx": "/assets/GPS/GPS_05/GPS_05_abstract.docx",
-      "textPdf": "/assets/GPS/GPS_05/GPS_05_text.pdf"
+      "coverPdf": "assets/GPS/GPS_05/GPS_05_titel.pdf",
+      "abstractDocx": "assets/GPS/GPS_05/GPS_05_abstract.docx",
+      "textPdf": "assets/GPS/GPS_05/GPS_05_text.pdf"
     },
     {
       "id": "GPS_04",
@@ -473,9 +473,9 @@
       "title": "Zazaki – Yesterday, Today and Tomorrow",
       "authors": "Arslan, Zeynep",
       "year": 2017,
-      "coverPdf": "/assets/GPS/GPS_04/GPS_04_titel.pdf",
-      "abstractDocx": "/assets/GPS/GPS_04/GPS_04_abstract.docx",
-      "textPdf": "/assets/GPS/GPS_04/GPS_04_text.pdf"
+      "coverPdf": "assets/GPS/GPS_04/GPS_04_titel.pdf",
+      "abstractDocx": "assets/GPS/GPS_04/GPS_04_abstract.docx",
+      "textPdf": "assets/GPS/GPS_04/GPS_04_text.pdf"
     },
     {
       "id": "GPS_03",
@@ -484,9 +484,9 @@
       "title": "Komorisch im transnationalen Kontext",
       "authors": "Waldburger, Daniela",
       "year": 2015,
-      "coverPdf": "/assets/GPS/GPS_03/GPS_03_titel.pdf",
-      "abstractDocx": "/assets/GPS/GPS_03/GPS_03_abstract.docx",
-      "textPdf": "/assets/GPS/GPS_03/GPS_03_text.pdf"
+      "coverPdf": "assets/GPS/GPS_03/GPS_03_titel.pdf",
+      "abstractDocx": "assets/GPS/GPS_03/GPS_03_abstract.docx",
+      "textPdf": "assets/GPS/GPS_03/GPS_03_text.pdf"
     },
     {
       "id": "GPS_02",
@@ -495,9 +495,9 @@
       "title": "Sprachliche Vielfalt im Alltag: Initiativen, Herausforderungen und Bedarfe an Grazer Institutionen",
       "authors": "Korb, Christina / Kerstin Gruber / Barbara Schrammel-Leber. eds.",
       "year": 2015,
-      "coverPdf": "/assets/GPS/GPS_02/GPS_02_titel.pdf",
-      "abstractDocx": "/assets/GPS/GPS_02/GPS_02_abstract.docx",
-      "textPdf": "/assets/GPS/GPS_02/GPS_02_text.pdf"
+      "coverPdf": "assets/GPS/GPS_02/GPS_02_titel.pdf",
+      "abstractDocx": "assets/GPS/GPS_02/GPS_02_abstract.docx",
+      "textPdf": "assets/GPS/GPS_02/GPS_02_text.pdf"
     },
     {
       "id": "GPS_01",
@@ -506,9 +506,9 @@
       "title": "Dominated Languages in the 21st Century: Papers from the International Conference on Minority Languages XIV",
       "authors": "Schrammel-Leber, Barbara / Christina Korb. eds.",
       "year": 2015,
-      "coverPdf": "/assets/GPS/GPS_01/GPS_01_titel.pdf",
-      "abstractDocx": "/assets/GPS/GPS_01/GPS_01_abstract.docx",
-      "textPdf": "/assets/GPS/GPS_01/GPS_01_text.pdf"
+      "coverPdf": "assets/GPS/GPS_01/GPS_01_titel.pdf",
+      "abstractDocx": "assets/GPS/GPS_01/GPS_01_abstract.docx",
+      "textPdf": "assets/GPS/GPS_01/GPS_01_text.pdf"
     },
     {
       "id": "GPT_03",
@@ -517,9 +517,9 @@
       "title": "Gulvang u İtigatê Kırmancu – Kırmancların dua ve inançlari – Gebete und Glauben der Kirmanc",
       "authors": "Dikme, Ali / Zeynep Arslan",
       "year": 2023,
-      "coverPdf": "/assets/GPT/GPT_03/GPT_03_titel.pdf",
-      "abstractDocx": "/assets/GPT/GPT_03/GPT_03_abstract.docx",
-      "textPdf": "/assets/GPT/GPT_03/GPT_03_text.pdf"
+      "coverPdf": "assets/GPT/GPT_03/GPT_03_titel.pdf",
+      "abstractDocx": "assets/GPT/GPT_03/GPT_03_abstract.docx",
+      "textPdf": "assets/GPT/GPT_03/GPT_03_text.pdf"
     },
     {
       "id": "GPT_02",
@@ -528,9 +528,9 @@
       "title": "Kija ujal romano szvato? – Romani world where are you?",
       "authors": "Olah, Lidia “Suni” / Zuzana Bodnárová",
       "year": 2022,
-      "coverPdf": "/assets/GPT/GPT_02/GPT_02_titel.pdf",
-      "abstractDocx": "/assets/GPT/GPT_02/GPT_02_abstract.docx",
-      "textPdf": "/assets/GPT/GPT_02/GPT_02_text.pdf"
+      "coverPdf": "assets/GPT/GPT_02/GPT_02_titel.pdf",
+      "abstractDocx": "assets/GPT/GPT_02/GPT_02_abstract.docx",
+      "textPdf": "assets/GPT/GPT_02/GPT_02_text.pdf"
     },
     {
       "id": "GPT_01",
@@ -539,9 +539,9 @@
       "title": "Sanıka çêneka pelevane – Pehlivan kızın masalı – Das Märchen vom Ringer-Mädchen – The tale of the wrestler girl",
       "authors": "Arslan, Mehmet / Zeynep Arslan",
       "year": 2021,
-      "coverPdf": "/assets/GPT/GPT_01/GPT_01_titel.pdf",
-      "abstractDocx": "/assets/GPT/GPT_01/GPT_01_abstract.docx",
-      "textPdf": "/assets/GPT/GPT_01/GPT_01_text.pdf"
+      "coverPdf": "assets/GPT/GPT_01/GPT_01_titel.pdf",
+      "abstractDocx": "assets/GPT/GPT_01/GPT_01_abstract.docx",
+      "textPdf": "assets/GPT/GPT_01/GPT_01_text.pdf"
     },
     {
       "id": "GRP_08",
@@ -550,9 +550,9 @@
       "title": "Polsko, Litovsko, Lotfitko, and Xaladytko Romanes",
       "authors": "Tcherenkov, Lev / Stéphane Laederich",
       "year": 2022,
-      "coverPdf": "/assets/GRP/GRP_08/GRP_08_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_08/GRP_08_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_08/GRP_08_text.pdf"
+      "coverPdf": "assets/GRP/GRP_08/GRP_08_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_08/GRP_08_abstract.docx",
+      "textPdf": "assets/GRP/GRP_08/GRP_08_text.pdf"
     },
     {
       "id": "GRP_07",
@@ -561,9 +561,9 @@
       "title": "Andaj Romengi ljuma: Patjiv le Mozesoske Heinschink",
       "authors": "Cech, Petra / Christiane Fennesz-Juhasz / Dieter W. Halwachs. eds.",
       "year": 2019,
-      "coverPdf": "/assets/GRP/GRP_07/GRP_07_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_07/GRP_07_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_07/GRP_07_text.pdf"
+      "coverPdf": "assets/GRP/GRP_07/GRP_07_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_07/GRP_07_abstract.docx",
+      "textPdf": "assets/GRP/GRP_07/GRP_07_text.pdf"
     },
     {
       "id": "GRP_06",
@@ -572,9 +572,9 @@
       "title": "Der Romani-Dialekt der Futadžides von Chaskovo / Bulgarien",
       "authors": "Boretzky, Norbert",
       "year": 2018,
-      "coverPdf": "/assets/GRP/GRP_06/GRP_06_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_06/GRP_06_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_06/GRP_06_ktext.pdf"
+      "coverPdf": "assets/GRP/GRP_06/GRP_06_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_06/GRP_06_abstract.docx",
+      "textPdf": "assets/GRP/GRP_06/GRP_06_ktext.pdf"
     },
     {
       "id": "GRP_05",
@@ -583,9 +583,9 @@
       "title": "Das Amen Godi Pala Lev Čerenkov: Romani Historija, Čhib Taj Kultura",
       "authors": "Kozhanov, Kiril A. / Dieter W. Halwachs / Mihael Oslon. eds.",
       "year": 2017,
-      "coverPdf": "/assets/GRP/GRP_05/GRP_05_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_05/GRP_05_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_05/GRP_05_text.pdf"
+      "coverPdf": "assets/GRP/GRP_05/GRP_05_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_05/GRP_05_abstract.docx",
+      "textPdf": "assets/GRP/GRP_05/GRP_05_text.pdf"
     },
     {
       "id": "GRP_04",
@@ -594,9 +594,9 @@
       "title": "Der Romani-Dialekt von Prilep / Makedonien",
       "authors": "Boretzky, Norbert / Petra Cech",
       "year": 2016,
-      "coverPdf": "/assets/GRP/GRP_04/GRP_04_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_04/GRP_04_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_04/GRP_04_text.pdf"
+      "coverPdf": "assets/GRP/GRP_04/GRP_04_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_04/GRP_04_abstract.docx",
+      "textPdf": "assets/GRP/GRP_04/GRP_04_text.pdf"
     },
     {
       "id": "GRP_03",
@@ -605,9 +605,9 @@
       "title": "Andi paramisi sig džal – Time goes fast in fairytales: Text collection of South Central Romani in Hungary",
       "authors": "Bodnárová, Zuzana / Jakob Wiedner",
       "year": 2013,
-      "coverPdf": "/assets/GRP/GRP_03/GRP_03_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_03/GRP_03_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_03/GRP_03_text.pdf"
+      "coverPdf": "assets/GRP/GRP_03/GRP_03_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_03/GRP_03_abstract.docx",
+      "textPdf": "assets/GRP/GRP_03/GRP_03_text.pdf"
     },
     {
       "id": "GRP_02",
@@ -616,9 +616,9 @@
       "title": "Romani V: Papers from the Annual Meeting of the Gypsy Lore Society, Graz 2011",
       "authors": "Schrammel, Barbara / Barbara Tiefenbacher. eds.",
       "year": 2013,
-      "coverPdf": "/assets/GRP/GRP_02/GRP_02_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_02/GRP_02_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_02/GRP_02_text.pdf"
+      "coverPdf": "assets/GRP/GRP_02/GRP_02_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_02/GRP_02_abstract.docx",
+      "textPdf": "assets/GRP/GRP_02/GRP_02_text.pdf"
     },
     {
       "id": "GRP_01",
@@ -627,9 +627,9 @@
       "title": "Romani – Education, Segregation and the European Charter for Regional or Minority Languages: 2nd revised edition",
       "authors": "Halwachs, Dieter W. / Simone A Klinge / Barbara Schrammel-Leber",
       "year": 2015,
-      "coverPdf": "/assets/GRP/GRP_01/GRP_01_titel.pdf",
-      "abstractDocx": "/assets/GRP/GRP_01/GRP_01_abstract.docx",
-      "textPdf": "/assets/GRP/GRP_01/GRP_01_text.pdf"
+      "coverPdf": "assets/GRP/GRP_01/GRP_01_titel.pdf",
+      "abstractDocx": "assets/GRP/GRP_01/GRP_01_abstract.docx",
+      "textPdf": "assets/GRP/GRP_01/GRP_01_text.pdf"
     }
   ]
 }
